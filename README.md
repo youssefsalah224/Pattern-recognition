@@ -1,9 +1,10 @@
 # Pattern-recognition
 
 
-#the work
+#The Work
 
-#Operation on the Data
+#Operation on The Data
+
 1) Read The Data:
  reading the data but don't download it, we use link to get it.
 
