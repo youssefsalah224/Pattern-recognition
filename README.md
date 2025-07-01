@@ -6,7 +6,7 @@
 #Operation on The Data
 
 1) Read The Data:
- reading the data but don't download it, we use link to get it.
+ reading and preposses the data
 
 2) Shuffling The Data:
 We shuffled and randomized it to mix up data and can optionally retain logical relationships between columns.
